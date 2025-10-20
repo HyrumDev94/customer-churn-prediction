@@ -27,6 +27,9 @@ By predicting churn, the company can target clients with promotional offers, red
    git clone https://github.com/HyrumDev94/customer-churn-prediction.git
 
 ## View Project: [Notebook Stege 1](https://github.com/HyrumDev94/customer-churn-prediction/blob/main/notebook.ipynb)
+## View Project: [Notebook STage 2](https://github.com/HyrumDev94/customer-churn-prediction/blob/main/notebook%20(4).ipynb)
+
+
 
 ## Future Improvements
 
