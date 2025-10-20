@@ -26,7 +26,12 @@ By predicting churn, the company can target clients with promotional offers, red
    ```bash
    git clone https://github.com/HyrumDev94/customer-churn-prediction.git
 
-
+<img width="749" height="796" alt="Screenshot 2025-10-20 at 3 41 24 PM" src="https://github.com/user-attachments/assets/039149a4-a939-4c67-a239-cb6cda74ae19" />
+<img width="717" height="795" alt="Screenshot 2025-10-20 at 3 40 43 PM" src="https://github.com/user-attachments/assets/fc152eae-d89f-4526-b472-c596701e6f5e" />
+<img width="747" height="793" alt="Screenshot 2025-10-20 at 3 41 03 PM" src="https://github.com/user-attachments/assets/75e74f2e-cf75-421d-9a9f-e4d31650dd42" />
+<img width="757" height="789" alt="Screenshot 2025-10-20 at 3 40 08 PM" src="https://github.com/user-attachments/assets/6f58020b-2b17-4ecb-abcd-d1b627f6d05f" />
+<img width="741" height="801" alt="Screenshot 2025-10-20 at 3 40 24 PM" src="https://github.com/user-attachments/assets/b8321e74-751d-4364-8ab0-354989381e30" />
+<img width="737" height="796" alt="Screenshot 2025-10-20 at 3 41 42 PM" src="https://github.com/user-attachments/assets/d1930e44-e361-4ae9-8a9d-e300e0573e4e" />
 
 
 ## View Project: [Notebook Stege 1](https://github.com/HyrumDev94/customer-churn-prediction/blob/main/notebook.ipynb)
