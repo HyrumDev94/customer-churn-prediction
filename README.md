@@ -27,3 +27,10 @@ By predicting churn, the company can target clients with promotional offers, red
    git clone https://github.com/HyrumDev94/customer-churn-prediction.git
 
 ## View Project: [Notebook](https://github.com/HyrumDev94/customer-churn-prediction/blob/main/notebook.ipynb)
+
+## Future Improvements
+
+- Test ensemble techniques (XGBoost, CatBoost) to improve recall for high-risk churn customers.  
+- Implement SHAP or LIME explainability tools to help stakeholders understand key drivers of churn.  
+- Build a real-time churn monitoring dashboard integrated with CRM data for proactive customer retention actions.  
+- Expand the model to include time-based features such as tenure trends or recent usage drop-offs.
